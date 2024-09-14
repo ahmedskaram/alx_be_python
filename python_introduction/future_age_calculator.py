@@ -1,4 +1,4 @@
-your_age = input('How old are you?')
+your_age = int(input('How old are you? '))
 
 age = your_age + 27
 
