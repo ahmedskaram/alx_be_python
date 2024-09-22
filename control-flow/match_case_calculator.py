@@ -3,7 +3,7 @@ operator = input('Choose the operation (+, -, *, /):')
 num2 = float(input('Enter the second number: '))
 
 match operator:
-    case _ if operator == '+':
+    case '+':
         result = num1 + num2
         print(f'The result is {result}')
     case '-':
