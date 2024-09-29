@@ -1,3 +1,5 @@
+shoppin_list = []
+
 def display_menu():
     print("Shopping List Manager")
     print("1. Add Item")
@@ -6,7 +8,6 @@ def display_menu():
     print("4. Exit")
     
 def main():
-    shoppin_list = []
     while True:
         display_menu()
         
