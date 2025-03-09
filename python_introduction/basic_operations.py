@@ -1,3 +1,5 @@
+############################################################################
+
 number1 = 10
 number2 = 5
 
@@ -10,7 +12,11 @@ print(f'Addition of 10 and 5 is: {addition}')
 print(f'Subtraction of 10 and 5 is: {subtraction}')
 print(f'Multiplication of 10 and 5 is: {multiplication}')
 
+############################################################################
+
 # Another way to print without using f-strings (using commas)
 print('Addition of 10 and 5 is', addition)
 print('Subtraction of 10 and 5 is', subtraction)
 print('Multiplication of 10 and 5 is', multiplication)
+
+############################################################################
