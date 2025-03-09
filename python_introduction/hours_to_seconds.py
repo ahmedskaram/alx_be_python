@@ -6,8 +6,8 @@ minutes = 60
 
 second_per_hour = seconds * minutes
 
-# Number of hours to convert to seconds
-hours = 2
+
+hours = 2 # Number of hours to convert to seconds
 
 seconds = hours * second_per_hour
 
